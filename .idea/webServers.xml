@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14638283-3cff-4659-827e-b42c8cd3442f" name="additonal-registration-fields" url="http://ftp.conschneider.de">
+        <fileTransfer host="ftp.conschneider.de" port="22" rootFolder="/wp/wcdemo/wchelpertest-wpms-com" accessType="SFTP" password="dfc2dfe5dfc7dff0df9adffbdf9cdfefdfcfdfd2dff5dfcbdffedfe0dffedffedfd8dfdfdff5" username="175141-ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
